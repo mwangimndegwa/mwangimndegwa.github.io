@@ -2,7 +2,7 @@
 ### Data Scientist | MEAL Specialist | Program Manager
 
 #### About
-With a strong foundation in Mathematics and a specialization in Statistics. My academic journey has equipped me with an analytical mind and a drive to uncover insights from data. I am equally fascinated by the potential of Artificial Intelligence and Large Language Models, and I believe in their power to revolutionize problem-solving, and their future possibilities.
+With a strong foundation in [Mathematics](https://spas.pu.ac.ke) and a specialization in Statistics. My academic journey has equipped me with an analytical mind and a drive to uncover insights from data. I am equally fascinated by the potential of Artificial Intelligence and Large Language Models, and I believe in their power to revolutionize problem-solving, and their future possibilities.
 
 In the community, I have been instrumental in educating young leaders from East Africa on how to increase their impact through data-based insights. This assignment has not only allowed me to apply my technical skills but also to channel my deep-rooted passion for social impact, inspiring others to join me in this mission.
 
