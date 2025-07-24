@@ -1,5 +1,4 @@
-___
-## Data Scientist | MEAL Specialist | Program Manager
+## Data Scientist | Program Manager
 ___
 
 ### About
@@ -16,7 +15,7 @@ I'm an expert Data Scientist skilled in Machine Learning, AI, and Large Language
 📚 **[Pwani University (PU)](https://spas.pu.ac.ke)**
   - BSC Mathematics and Statistics
 
-Here are ways you can contact me:
+Let's Connect:
 * [LinkedIn](https://ke.linkedin.com/in/mwangimndegwa)
 * [Facebook](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/mwangimndegwa/&ved=2ahUKEwitmJ6UsNWOAxVCmmoFHVH9KVgQFnoECCoQAQ&usg=AOvVaw2zW335tytX8wYQQdCJe2B2)
   
