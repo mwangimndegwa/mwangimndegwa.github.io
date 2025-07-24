@@ -1,6 +1,4 @@
-# Mwangi M Ndegwa
-
-### Data Scientist | MEAL Specialist | Program Manager
+## Data Scientist | MEAL Specialist | Program Manager
 
 #### About
 
