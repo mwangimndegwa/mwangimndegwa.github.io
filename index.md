@@ -3,14 +3,10 @@
 ### Data Scientist | MEAL Specialist | Program Manager
 
 #### About
-With a strong foundation in [Mathematics](https://spas.pu.ac.ke) and a specialization in Statistics. My academic journey has equipped me with an analytical mind and a drive to uncover insights from data. I am equally fascinated by the potential of Artificial Intelligence and Large Language Models, and I believe in their power to revolutionize problem-solving, and their future possibilities.
 
-In the community, I have been instrumental in educating young leaders from East Africa on how to increase their impact through data-based insights. This assignment has not only allowed me to apply my technical skills but also to channel my deep-rooted passion for social impact, inspiring others to join me in this mission.
-
-My career goal is to harness the power of technology to address complex humanitarian challenges. By leveraging data, I aspire to contribute to meaningful and lasting change worldwide. I am not just open, but eager to collaborate with organizations and individuals who share this vision, as I believe that together, we can achieve more.
+I'm an expert Data Scientist skilled in Machine Learning, AI, and Large Language Models, backed by a strong foundation in [Mathematics](https://spas.pu.ac.ke), Statistics, and a comprehensive suite of programming and database tools. My passion lies in creating actionable insights for humanitarian impact, specifically by applying these advanced analytics to geospatial and environmental data for agricultural transformation. I've empowered dozens of young leaders across East Africa to drive change with data-driven strategies, and I actively seek collaborations to foster meaningful, global change through technology.
 
 Here are ways you can contact me:
 * [LinkedIn](https://ke.linkedin.com/in/mwangimndegwa)
-* Github
-* [Email](mailto:mndegwa@asu.edu)
+* [Facebook](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/mwangimndegwa/&ved=2ahUKEwitmJ6UsNWOAxVCmmoFHVH9KVgQFnoECCoQAQ&usg=AOvVaw2zW335tytX8wYQQdCJe2B2)
   
