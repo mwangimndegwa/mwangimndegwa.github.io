@@ -1,8 +1,18 @@
 ## Data Scientist | MEAL Specialist | Program Manager
 
-#### About
+### About
 
 I'm an expert Data Scientist skilled in Machine Learning, AI, and Large Language Models, backed by a strong foundation in [Mathematics](https://spas.pu.ac.ke), Statistics, and a comprehensive suite of programming and database tools. My passion lies in creating actionable insights for humanitarian impact, specifically by applying these advanced analytics to geospatial and environmental data for agricultural transformation. I've empowered dozens of young leaders across East Africa to drive change with data-driven strategies, and I actively seek collaborations to foster meaningful, global change through technology.
+
+### Education
+#### 🎓 Arizona State University (ASU)
+MS Data Science, Analytics and Engineering (Computing and Decision Analytics)
+
+#### 📊 WorldQuant University (WQU)
+Applied Data Science Lab
+
+#### 📚 Pwani University (PU)
+BSC Mathematics and Statistics
 
 Here are ways you can contact me:
 * [LinkedIn](https://ke.linkedin.com/in/mwangimndegwa)
